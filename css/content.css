@@ -21,6 +21,10 @@ header{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.nav ul li a{
+    text-decoration: none;
+}
+
 .action-button{
     background: #0E1837;
     width: 150px;
