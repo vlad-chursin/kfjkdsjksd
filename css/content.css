@@ -1,0 +1,36 @@
+*{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+}
+
+.logo img{
+    width: 100px;
+    height: 50px;
+}
+
+.nav ul{
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.action-button{
+    background: #0E1837;
+    width: 150px;
+    height: 45px;
+    border-radius: 5px;
+}
+
+.action-button a{
+   color: #FFFFFF;
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 24px;
+}
